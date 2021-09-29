@@ -1,0 +1,16 @@
+body {
+    background-color: turquoise;
+    background-image: url()
+}
+h1 {
+    color: red; font-size: 80px;
+}
+
+h3 {
+    padding-left: 120px;
+    padding-right: 120px;
+}
+img {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
